@@ -1,0 +1,83 @@
+@charset "utf-8";
+body header {
+    background-color: #f4e2c3;
+}
+.imagenfondo1 {
+    background-image: url(../imagenescapy/free-photo-of-close-up-profile-of-capybara-in-uk-park.jpeg);
+    background-position: center center;
+    background-size: cover;
+}
+.imagenfondo2 {
+    background-image: url(../imagenescapy/colombia_5964.jpg);
+    background-position: center center;
+}
+.imagenfondo3 {
+    background-image: url(../imagenescapy/nationalgeographic2683012_0.jpg);
+    background-position: center center;
+    background-size: cover;
+}
+
+body main img {
+    text-align: left;
+    float: none;
+    margin-left: 160px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.imagenmain1 {
+    margin-left: 550px;
+}
+
+
+body main {
+    background-color: #7dcec7;
+    float: none;
+}
+body footer {
+    height: 100px;
+}
+
+.parra1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.marginparra1 {
+
+}
+
+.jumbotron.imagenfondo1 p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFFFFF;
+    clear: none;
+    float: none;
+}
+.jumbotron.imagenfondo2 p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFFFFF;
+}
+.jumbotron.imagenfondo3 p {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    color: #FFFFFF;
+}
+.jumbotron.imagenfondo1 .display-4 {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.jumbotron.imagenfondo2 .display-4 {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.jumbotron.imagenfondo3 .display-4 {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+.container .navbar.navbar-expand-lg.navbar-light.bg-light {
+}
+body footer {
+    background-color: #DDA783;
+}
+.mx-auto {
+
+}
