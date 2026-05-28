@@ -20,12 +20,15 @@ body header {
 body main img {
     text-align: left;
     float: none;
-    margin-left: 160px;
     margin-top: 30px;
     margin-bottom: 30px;
+    clear: none;
 }
 .imagenmain1 {
-    margin-left: 550px;
+    margin-left: 50px;
+
+
+
 }
 
 
